@@ -1,0 +1,5 @@
+letters = ('A', 'C', 'B', 'B', 'C', 'A', 'C', 'C', 'B')
+eerste = letters.count('A')
+tweede = letters.count ('B')
+derde = letters.count('C')
+print(eerste, tweede, derde)
